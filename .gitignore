@@ -1,0 +1,11 @@
+# mac non-sense #
+*.DS_Store
+
+# Compiled Source #
+*.pyc
+
+# Authentication Keys #
+TWITTER_OAUTH_ACCESS_TOKEN
+
+# misc #
+__init__.py
